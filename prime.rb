@@ -1,3 +1,5 @@
 def prime?(num)
   if num <= 1
-    false# Add  code here!
+    false
+  end
+end# Add  code here!
